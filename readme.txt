@@ -1,1 +1,2 @@
-![Website Preview](![Website Preview](screenshot.png))
+![Website Preview](https://svvaap.github.io/srujan)
+
